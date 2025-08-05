@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a current PhD student at King's College London, studying the effects of climate change on Antarctica. You can find more information about my phd in [this repositry](https://github.com/Jonniebarnsley/phd).
+I'm a current PhD student at King's College London, studying the effects of climate change on the Antarctic ice sheet. You can find more information about my phd in [this repositry](https://github.com/Jonniebarnsley/phd).
 
 I also keep a [woefully neglected blog](https://jonniebarnsley.wordpress.com/) where I talk about maths, climate change, and whatever else I feel like at the time.
 
